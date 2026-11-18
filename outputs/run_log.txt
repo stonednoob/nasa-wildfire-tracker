@@ -1,0 +1,17 @@
+﻿Data: cache (public_VIIRS_NOAA20_NRT_-125_32_-114_42_5d_20261118.csv); 499 raw detections
+After dropping low-confidence detections: 487 rows (12 removed)
+Dates covered: 2026-11-14 to 2026-11-18 (5 days)
+DBSCAN eps=1.5 km (2.354e-04 rad), min_samples=3: 54 fires, 201 noise hotspots
+
+Largest fires:
+ fire_id  days_active  hotspots  total_frp_mw  center_lat  center_lon  spread_km spread_direction  possible_static_source
+       9            2        30         269.5     37.4308   -119.5917       0.15                -                   False
+      15            2        21         340.9     41.6572   -122.0355       0.68                W                   False
+      24            2        18          83.9     39.2592   -123.7659       0.72                N                   False
+      28            1        15         190.7     41.2571   -121.6483       0.00                -                   False
+      39            1        11         130.7     38.8302   -120.3786       0.00                -                   False
+
+Possible static heat sources (not wildfires): 0
+Largest single-cluster hull area: 4.7 km2
+
+Saved map, CSVs and chart to outputs
