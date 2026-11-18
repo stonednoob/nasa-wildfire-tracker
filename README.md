@@ -10,8 +10,8 @@ centre point, convex-hull area and direction of spread.
 499 detections, 487 after dropping low confidence, grouped into **54 fires**
 (286 hotspots) plus 201 isolated noise hotspots.
 
-Interactive map: [`outputs/fires_map.html`](outputs/fires_map.html) (download and open in a
-browser, or host it with GitHub Pages).
+**[Open the live interactive map](https://stonednoob.github.io/nasa-wildfire-tracker/outputs/fires_map.html)**
+(hosted with GitHub Pages; source: [`outputs/fires_map.html`](outputs/fires_map.html)).
 
 > Learning project. Not an emergency alert tool. For real fire information use official
 > sources such as NASA FIRMS, CAL FIRE or InciWeb.
